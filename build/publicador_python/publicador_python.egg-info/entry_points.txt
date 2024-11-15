@@ -1,0 +1,3 @@
+[console_scripts]
+publicador_cmd=publicador_python.publicador:mainsuscriber_odom = publicador_python.suscriber_odom:main
+
